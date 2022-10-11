@@ -1,4 +1,4 @@
-# NLW eSports 
+# Desafio-03-Bootcamp-NTT-DATA
 
 ![preview](./.github/duduzx02.github.io_Desafio-03-Bootcamp-NTT-DATA_%20(1).png)
 
